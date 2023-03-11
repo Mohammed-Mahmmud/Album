@@ -1,1 +1,1 @@
-an Album Application that can upload and save images using Laravel Spatie media library.
+Album Application a simple Laravel Spatie project involves integrating one or more of Spatie's packages into a Laravel application to add functionality and streamline development
